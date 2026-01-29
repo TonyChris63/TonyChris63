@@ -1,4 +1,4 @@
-# Tony Christopher | Software Engineer
+# Tony Christopher
 
 Aspiring software engineer with a strong foundation in systems programming, data analysis, and machine learning. I enjoy building performant, scalable, and maintainable software, and I’m particularly interested in systems, backend engineering, and data-driven applications.
 
